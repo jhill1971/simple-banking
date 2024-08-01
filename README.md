@@ -45,21 +45,7 @@ To compile and run the program, follow these steps:
 2. **Run the Program**:
     ./simple_banking
 
-## Sample Usage:
-********** THE SIMPLE BANK **********
-ENTER B TO CHECK YOUR BALANCE
-ENTER D TO MAKE A DEPOSIT
-ENTER W TO MAKE A WITHDRAWAL
-ENTER 0 TO END THIS SESSION
-YOUR SELECTION: B
-ENTER YOUR ACCOUNT NUMBER: 0001001
-Homer Simpson
-BALANCE:       $2,200.00
+## Sample Run
+![banking1](https://github.com/user-attachments/assets/7f195c66-8d1b-4ee7-8fd5-77ee56bb49d6)
 
-********** THE SIMPLE BANK **********
-ENTER B TO CHECK YOUR BALANCE
-ENTER D TO MAKE A DEPOSIT
-ENTER W TO MAKE A WITHDRAWAL
-ENTER 0 TO END THIS SESSION
-YOUR SELECTION: 0
-END OF SESSION
+
